@@ -1,0 +1,36 @@
+groups:
+  - name: "Silesia - Complete Dataset"
+    paths:
+      - data/silesia
+  - name: "Dickens - English text"
+    paths:
+      - data/silesia/dickens
+  - name: "mozilla, ooffice - Exe"
+    paths:
+      - data/silesia/mozilla
+      - data/silesia/ooffice
+  - name: "mr - Picture"
+    paths:
+      - data/silesia/mr
+  - name: "nci, osdb - Database"
+    paths:
+      - data/silesia/nci
+      - data/silesia/osdb
+  - name: "reymont - Polish Pdf"
+    paths:
+      - data/silesia/reymont
+  - name: "samba - src code"
+    paths:
+      - data/silesia/samba
+  - name: "sao - binary data"
+    paths:
+      - data/silesia/sao
+  - name: "webster - HTML data"
+    paths:
+      - data/silesia/webster
+  - name: "x-ray - Xray medical pictures"
+    paths:
+      - data/silesia/x-ray
+  - name: "xml"
+    paths:
+      - data/silesia/xml

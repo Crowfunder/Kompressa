@@ -1,0 +1,4 @@
+algorithm,group_name,file_name,original_size,compressed_size,compression_time,decompression_time,compression_ratio
+zstd,reymont - Polish Pdf,reymont,6627202,1942008,0.06010929200010651,0.015891611999904853,3.412551338614465
+gzip,reymont - Polish Pdf,reymont,6627202,1858629,0.4156487449999986,0.05448754899998676,3.5656400497355847
+xz,reymont - Polish Pdf,reymont,6627202,1317152,3.5116162919998715,0.11040326700003789,5.031463339083112

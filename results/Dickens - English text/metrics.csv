@@ -1,0 +1,4 @@
+algorithm,group_name,file_name,original_size,compressed_size,compression_time,decompression_time,compression_ratio
+zstd,Dickens - English text,dickens,10192446,3669252,0.13500919400030398,0.029564659999778087,2.7777993988965597
+gzip,Dickens - English text,dickens,10192446,3868778,0.7067853550001928,0.13268001799997364,2.6345388647267947
+xz,Dickens - English text,dickens,10192446,2831676,6.635759262000192,0.19312788800016278,3.5994393426366575

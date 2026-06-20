@@ -1,0 +1,4 @@
+algorithm,group_name,file_name,original_size,compressed_size,compression_time,decompression_time,compression_ratio
+zstd,webster - HTML data,webster,41458703,12133015,0.3349195180003335,0.08867518299985022,3.4170157211542227
+gzip,webster - HTML data,webster,41458703,12201980,1.7181030689998806,0.2663257059998614,3.3977029137894013
+xz,webster - HTML data,webster,41458703,8628848,22.95961639799998,0.4432741190003071,4.804662569093812

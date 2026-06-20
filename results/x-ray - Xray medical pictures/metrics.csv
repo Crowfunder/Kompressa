@@ -1,0 +1,4 @@
+algorithm,group_name,file_name,original_size,compressed_size,compression_time,decompression_time,compression_ratio
+zstd,x-ray - Xray medical pictures,x-ray,8474240,6086279,0.14135189499984335,0.02175822299977881,1.3923515501014658
+gzip,x-ray - Xray medical pictures,x-ray,8474240,6037794,0.39904575400032627,0.10956371400015996,1.4035324822277806
+xz,x-ray - Xray medical pictures,x-ray,8474240,4489912,3.5281445319997147,0.36187931899985415,1.8873955658819148
